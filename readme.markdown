@@ -3,12 +3,23 @@ HodgePodge Screensaver
 
 A screensaver written in C# and WPF.
 
-The screensaver is inspired by a nonlinear chemical oscillator called the 
-Belousov–Zhabotinsky reaction and the description of a simplification of
-this reaction in Gary William Flake's booko The Computational Beauty of Nature.
+The screensaver is inspired by a chemical reaction called the 
+Belousov–Zhabotinsky reaction. The reaction is described as a nonlinear
+chemical oscillator, which sums it up fairly well.
 
-The code is a bit raw, in that it does not support many of the things expected
-of a screensaver in Windows (preview, multiple screen support and the like).
+The algorithm used in the screensaver is described in Gary William Flake's
+book *The Computational Beauty of Nature*. The screensaver is based on
+this description, although C code is available (see references section).
+
+Caveats and Omissions
+---------------------
+
+* The code is fairly raw and does not support many of the things expected
+  of a screensaver in Windows (preview, settings, multiple screen support
+  and the like).
+* Some of the constants are hard coded.
+* The code for generating palettes is crude. I have a better version of this
+  but it is not in the code in the repository.
 
 Installation
 ------------
@@ -35,4 +46,4 @@ MIT permissive license. See mit-license.txt for full license details.
 Source Code Repository
 ----------------------
  
-https://github.com/thomasbratt/hodgepodgesScreensaver
+https://github.com/thomasbratt/hodgepodgescreensaver
