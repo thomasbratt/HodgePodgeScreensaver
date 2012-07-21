@@ -1,7 +1,7 @@
 HodgePodge Screensaver
 ======================
 
-A screensaver written in C# and WPF.
+A Windows screensaver written in C# and WPF.
 
 The screensaver is inspired by a chemical reaction called the 
 Belousov–Zhabotinsky reaction. The reaction is described as a nonlinear
