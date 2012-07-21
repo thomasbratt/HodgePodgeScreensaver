@@ -4,7 +4,7 @@ HodgePodge Screensaver
 A Windows screensaver written in C# and WPF.
 
 The screensaver is inspired by a chemical reaction called the 
-Belousov–Zhabotinsky reaction. The reaction is described as a nonlinear
+Belousov-Zhabotinsky reaction. The reaction is described as a nonlinear
 chemical oscillator, which sums it up fairly well.
 
 The algorithm used in the screensaver is described in Gary William Flake's
@@ -33,10 +33,10 @@ folder, even on 64 bit editions of Windows:
 References
 ----------
 
-https://ccrma.stanford.edu/CCRMA/Courses/220b/Lectures/6/Examples/cbn/code/src/hp.c
-http://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction
-http://mitpress.mit.edu/books/flaoh/cbnhtml/toc.html
-http://www.youtube.com/watch?v=bH6bRt4XJcw
+* https://ccrma.stanford.edu/CCRMA/Courses/220b/Lectures/6/Examples/cbn/code/src/hp.c
+* http://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction
+* http://mitpress.mit.edu/books/flaoh/cbnhtml/toc.html
+* http://www.youtube.com/watch?v=bH6bRt4XJcw
 
 License
 -------
