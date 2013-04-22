@@ -33,8 +33,9 @@ namespace HodgePodge
             // 100 produces fairly round concentric circles.
             this.numberOfStates = new Random().Next(70, 101);
 
-            // this.palette = FalseColourPalette.Generate();
-            this.palette = MonochromeBluePalette.Generate();
+            this.palette = FalseColourPalette.Generate();
+            // this.palette = MonochromeBluePalette.Generate();
+            // this.palette = IceBluePalette.Generate();
             
             base.Loaded += new RoutedEventHandler(this.OnWindowLoaded);
         }

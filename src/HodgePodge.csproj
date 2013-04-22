@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="IceBluePalette.cs" />
     <Compile Include="MonochromeBluePalette.cs" />
     <Compile Include="FalseColourPalette.cs" />
     <Compile Include="RenderToBitmap.cs" />
