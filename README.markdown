@@ -47,3 +47,7 @@ Source Code Repository
 ----------------------
  
 https://github.com/thomasbratt/hodgepodgescreensaver
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thomasbratt/hodgepodgescreensaver/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
